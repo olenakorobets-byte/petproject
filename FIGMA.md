@@ -11,6 +11,7 @@ GitHub repository: [olenakorobets-byte/petproject](https://github.com/olenakorob
 | Figma component | Figma node | Code component | Source |
 | --- | --- | --- | --- |
 | Button | `37:931` | `Button` | [`apps/v4/registry/new-york-v4/ui/button.tsx`](apps/v4/registry/new-york-v4/ui/button.tsx) |
+| Alert | `26:160` | `Alert` | [`apps/v4/registry/new-york-v4/ui/alert.tsx`](apps/v4/registry/new-york-v4/ui/alert.tsx) |
 
 ## Button Mapping
 
@@ -30,6 +31,23 @@ Official Figma Code Connect source URL:
 
 ```text
 https://github.com/olenakorobets-byte/petproject/blob/main/apps/v4/registry/new-york-v4/ui/button.tsx
+```
+
+## Alert Mapping
+
+The Figma `Alert` component set contains these variants:
+
+- Variants: `Default`, `Destructive`
+
+The matching React component supports:
+
+- `variant`: `default`, `destructive`
+- composition with `AlertTitle` and `AlertDescription`
+
+Official Figma Code Connect source URL:
+
+```text
+https://github.com/olenakorobets-byte/petproject/blob/main/apps/v4/registry/new-york-v4/ui/alert.tsx
 ```
 
 ## Code Connect Status
